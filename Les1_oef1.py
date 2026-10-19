@@ -1,4 +1,4 @@
 print("hallo")
 naam = "Gabriel"
-variabele = input("Hoe oud ben ik?")
+variabele = input("")
 getal1 = int(input("14:"))
